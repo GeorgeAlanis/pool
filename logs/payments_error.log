@@ -1,0 +1,14 @@
+2018-11-15 15:30:42 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 15:30:42 Payments failed to send to {"amount":100000000000000,"address":"9DKt3wxceEUh3Qdjhpz5trg1RSGkWwpbsB89TBEnBCxiM6jjVrFyzaHAp54SsQ9hecVoPZeyfyKheQMeLXzYk1jDEKh3Tx9"}
+2018-11-15 15:50:43 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 15:50:43 Payments failed to send to {"amount":51654000000000,"address":"9DQ7tMz4hGcUkyJbDctdVJcFgHHKw3tBnNB1ErqLTPabZXTLjrZzMAAWRghxQQNTxbhrWh4T1JqJAiaJb8N4ipWyHcoyt3y"} { amount: 48346000000000,
+  address: '9DKt3wxceEUh3Qdjhpz5trg1RSGkWwpbsB89TBEnBCxiM6jjVrFyzaHAp54SsQ9hecVoPZeyfyKheQMeLXzYk1jDEKh3Tx9' }
+2018-11-15 16:30:44 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 16:30:44 Payments failed to send to {"amount":51481000000000,"address":"9DQ7tMz4hGcUkyJbDctdVJcFgHHKw3tBnNB1ErqLTPabZXTLjrZzMAAWRghxQQNTxbhrWh4T1JqJAiaJb8N4ipWyHcoyt3y"} { amount: 172200000000,
+  address: '9DKt3wxceEUh3Qdjhpz5trg1RSGkWwpbsB89TBEnBCxiM6jjVrFyzaHAp54SsQ9hecVoPZeyfyKheQMeLXzYk1jDEKh3Tx9' }
+2018-11-15 16:40:44 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 16:40:44 Payments failed to send to {"amount":100000000000000,"address":"9DQ7tMz4hGcUkyJbDctdVJcFgHHKw3tBnNB1ErqLTPabZXTLjrZzMAAWRghxQQNTxbhrWh4T1JqJAiaJb8N4ipWyHcoyt3y"}
+2018-11-15 17:10:44 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 17:10:44 Payments failed to send to {"amount":40875000000000,"address":"9DQ7tMz4hGcUkyJbDctdVJcFgHHKw3tBnNB1ErqLTPabZXTLjrZzMAAWRghxQQNTxbhrWh4T1JqJAiaJb8N4ipWyHcoyt3y"}
+2018-11-15 17:50:45 Error with transfer RPC request to wallet daemon {"code":-4,"message":"Internal node error"}
+2018-11-15 17:50:45 Payments failed to send to {"amount":17217500000000,"address":"9DQ7tMz4hGcUkyJbDctdVJcFgHHKw3tBnNB1ErqLTPabZXTLjrZzMAAWRghxQQNTxbhrWh4T1JqJAiaJb8N4ipWyHcoyt3y"}

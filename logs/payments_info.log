@@ -1,0 +1,1502 @@
+2018-10-18 13:32:11 Started
+2018-10-18 13:32:11 Payments sent via wallet daemon {"tx_hash":"46c5ba2331ee487a5873599ca3a7fbc7d40b99ad251226843f0ce6924ce65217"}
+2018-10-18 13:32:12 Payments sent via wallet daemon {"tx_hash":"a59e7eb1c9c0a709f00c180454d54f279fbb13d33ea07e8d10dca34fd10f5b0e"}
+2018-10-18 13:32:12 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 13:42:12 Payments sent via wallet daemon {"tx_hash":"4a5eda21b2a172f362f8fa939cc47b9e16b271b3c5fdb200825054d5dce326d2"}
+2018-10-18 13:42:12 Payments sent via wallet daemon {"tx_hash":"054d2da5c7cda5d888fcff439f77bb36b0c606f16b598840f75c1cf785c88e33"}
+2018-10-18 13:42:12 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 13:52:12 Payments sent via wallet daemon {"tx_hash":"4358c81b8a92c8b5604d96bbdd48dce9b6fe66b921f582b7ac6168919ddc8932"}
+2018-10-18 13:52:12 Payments sent via wallet daemon {"tx_hash":"44bbd839f54a7f82412b5f3b1c417af4bf5b0221c4549bcd49bb6f4145590b2e"}
+2018-10-18 13:52:12 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:02:13 Payments sent via wallet daemon {"tx_hash":"ee5728e5065e845f5aad1c88063a6122fedae384ceffe306ef30cadeb44d7719"}
+2018-10-18 14:02:13 Payments sent via wallet daemon {"tx_hash":"3526064142945a39d189e0790be74f883b21d0f172126940ab988b5e580ef2f4"}
+2018-10-18 14:02:13 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:12:13 Payments sent via wallet daemon {"tx_hash":"647045c7232cb15a4188adec6919695f8dfc1b49718f6ea94e3ef975fb7eb2c8"}
+2018-10-18 14:12:13 Payments sent via wallet daemon {"tx_hash":"af9f183bc54b55f4d37cc097e24956e3b300e90b06d9f4dca44ab891915627fd"}
+2018-10-18 14:12:13 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:22:13 Payments sent via wallet daemon {"tx_hash":"95359911b512c0acfa04213f0af7f57c2bfb2baae07a916b374ff647ed732bb1"}
+2018-10-18 14:22:14 Payments sent via wallet daemon {"tx_hash":"4570f09e2f14b737f105e8285ba09eb80c2b367a0b9f3b6dd3aea3cf92167680"}
+2018-10-18 14:22:14 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:32:14 Payments sent via wallet daemon {"tx_hash":"6eb3fe991480c746261c28d7321936ab5440bdacf6cebd80f4799a5166daad69"}
+2018-10-18 14:32:14 Payments sent via wallet daemon {"tx_hash":"dff3b00e2436cad2e235e55e46f16f3b1d8930c0a08384a7fe10f312a1035781"}
+2018-10-18 14:32:14 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:42:14 Payments sent via wallet daemon {"tx_hash":"a82e8c7b73fcd508e1a3016591e5055d364d5b1117f23e08d21ae7d7b920ccde"}
+2018-10-18 14:42:14 Payments sent via wallet daemon {"tx_hash":"aa18ccd40bd140a8e7251808a1465ad5e6391e2fb296b053ff2b2d647067ad65"}
+2018-10-18 14:42:14 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 14:52:14 Payments sent via wallet daemon {"tx_hash":"b27c91fb425d3c2684504a32b56942184dbbd769a882108aa3afa5645f50ff55"}
+2018-10-18 14:52:15 Payments sent via wallet daemon {"tx_hash":"adcd0272e6f87bf9369d0de7a6c00b2dbff39c1237a69900d68fece899a9e1d8"}
+2018-10-18 14:52:15 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:02:15 Payments sent via wallet daemon {"tx_hash":"ec838d9c9efcb6ed578f13efed7923912baaddca8ea7da33e8079a2f16dfc741"}
+2018-10-18 15:02:15 Payments sent via wallet daemon {"tx_hash":"ae821041e2c4647efe7b8c719df5cf539cd08d0f35844b6f02d1a39689f07b5d"}
+2018-10-18 15:02:15 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:12:15 Payments sent via wallet daemon {"tx_hash":"57c90a406f00834de430deb370c72714bcd8688319d671b0725092b68714d391"}
+2018-10-18 15:12:15 Payments sent via wallet daemon {"tx_hash":"78eb4d62f94698ca84ed2d71609780b1dd89fc3ae9e9eb6b05889935715ff328"}
+2018-10-18 15:12:15 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:22:16 Payments sent via wallet daemon {"tx_hash":"8636625567923b9bb9252b617e78c3e69bd7d9adcde958c7e50d7c5f9e48d8d0"}
+2018-10-18 15:22:16 Payments sent via wallet daemon {"tx_hash":"80ec0247607061fcab2d9cf3659fb07802048e59428b952ab7d8d4e6e3a3c4ca"}
+2018-10-18 15:22:16 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:32:16 Payments sent via wallet daemon {"tx_hash":"fa3721d3e60b50cc2e1c6166fc9a79135a7e260dab90dddfb2657c92ffb5d60f"}
+2018-10-18 15:32:16 Payments sent via wallet daemon {"tx_hash":"4ddea07fafefbd9bc6dbcf9b37588ed1455ab6c4c7d3aee7998398af1ee0ddf4"}
+2018-10-18 15:32:16 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:42:16 Payments sent via wallet daemon {"tx_hash":"81ee311d634784986d8cec853241161d2006bafc0b383a1c2ac728ee28c808d6"}
+2018-10-18 15:42:17 Payments sent via wallet daemon {"tx_hash":"7fa12b73141aca8696d983c1021401239f9abd157d3a5c5b784e7811758646ab"}
+2018-10-18 15:42:17 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 15:52:17 Payments sent via wallet daemon {"tx_hash":"18e326c8d77bc623d8fcdd7de2e659a3bf799e8b7b51a66b972b7a0085430f95"}
+2018-10-18 15:52:17 Payments sent via wallet daemon {"tx_hash":"4e0dacd9b4dc57bfbcae2f88bcfc6b0319eca225e8ce401a8a4b65e9bae44c91"}
+2018-10-18 15:52:17 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:02:17 Payments sent via wallet daemon {"tx_hash":"2a0bb1fad6a2a07fae68b29e7da1daa067a41e556b81fa978fe8a6e8f09dee70"}
+2018-10-18 16:02:17 Payments sent via wallet daemon {"tx_hash":"4224ec2874033608c9a92377e6064b5cdb110be9d5115b6aa6d252467e7076c5"}
+2018-10-18 16:02:17 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:12:18 Payments sent via wallet daemon {"tx_hash":"598c419edf1c941ae3d3a089102384b5f4da79dbea1ea61abe91372cce2ab708"}
+2018-10-18 16:12:18 Payments sent via wallet daemon {"tx_hash":"b17bcd71871993ec0ca0915f94b7d47596fc158e66551eaa688ba7c264a7f38b"}
+2018-10-18 16:12:18 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:22:18 Payments sent via wallet daemon {"tx_hash":"a5f3ca1e7312c51862568f5ce58d57f9180faa31482c4183c6ffebdbd860a6e1"}
+2018-10-18 16:22:18 Payments sent via wallet daemon {"tx_hash":"d6a9bfa17f1aba80ad05cb94ab7065a421156e0913ef76e5b838ed321d3141b5"}
+2018-10-18 16:22:18 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:32:18 Payments sent via wallet daemon {"tx_hash":"a02a3f542d99fc7e0a30e2d95b3a26b046c04e4bb0e090407aed0b8331bef535"}
+2018-10-18 16:32:19 Payments sent via wallet daemon {"tx_hash":"d25212b5ec99c85bf943eadc3cd43b39b456dd08faecc3168f9333bb97490f83"}
+2018-10-18 16:32:19 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:42:19 Payments sent via wallet daemon {"tx_hash":"778aa84c63a925de1307906957c69b2cedc3bb022f9a5dd0ec41064668087d39"}
+2018-10-18 16:42:19 Payments sent via wallet daemon {"tx_hash":"8c6df41d68f4c0e760680b5af3484ce48b47bb423984d15529e0983fe920ddc6"}
+2018-10-18 16:42:19 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 16:52:19 Payments sent via wallet daemon {"tx_hash":"d87aa1873f1de0ad510ac61d21dba8ba5dca92038572c7ab327ccb21ca6c31c4"}
+2018-10-18 16:52:19 Payments sent via wallet daemon {"tx_hash":"9896124377d4ff298d257f1959f117283043764439519585268fa3a73c943501"}
+2018-10-18 16:52:19 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:02:19 Payments sent via wallet daemon {"tx_hash":"59952ed5800f72e82919185df079381e7a1fe74b303b888f8736f935c42541a4"}
+2018-10-18 17:02:20 Payments sent via wallet daemon {"tx_hash":"25203d123b820b5884aad1810c9c1519820ee8e307c57b59b4d5f9478c095bf0"}
+2018-10-18 17:02:20 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:12:20 Payments sent via wallet daemon {"tx_hash":"106fc6c8514ddc73ef4238010609c7487a574266e9738bd74f1b686c9a3f5b0a"}
+2018-10-18 17:12:20 Payments sent via wallet daemon {"tx_hash":"fc4c94fb16dde741ca04dce457d92252413c330b3328acecec26b964480d18aa"}
+2018-10-18 17:12:20 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:22:20 Payments sent via wallet daemon {"tx_hash":"da735d615b7683921b37b8de0719c20bf07d4f5d5a2b6a5ad0c67c8492c2efc5"}
+2018-10-18 17:22:20 Payments sent via wallet daemon {"tx_hash":"eb9f09ebfc24fe13c77ab6a44dc2a861734d90c6257fa2d2a570cc64c776a784"}
+2018-10-18 17:22:20 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:32:21 Payments sent via wallet daemon {"tx_hash":"3a7287b44acbffb01608aa2102e9435b9662e5cd28ebea8e4d8a77cd1b352072"}
+2018-10-18 17:32:21 Payments sent via wallet daemon {"tx_hash":"3a3b58a50f954af5704ad5e70da81f9884837d3bd3eac3fdca0d300da533f110"}
+2018-10-18 17:32:21 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:42:21 Payments sent via wallet daemon {"tx_hash":"ab9ea1e97faa79d7b272112f42ee94271f94a5a5b17c953a855912827ab90da3"}
+2018-10-18 17:42:21 Payments sent via wallet daemon {"tx_hash":"08c8cfe28488a8b72df340563c102eac5f1d9f79f6e9bbe3ef5ff37a40df46b5"}
+2018-10-18 17:42:21 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 17:52:21 Payments sent via wallet daemon {"tx_hash":"ae8ddfc2cbfc9bd475fa234b820fc73fcf51833ae663133aadb528021f06937e"}
+2018-10-18 17:52:22 Payments sent via wallet daemon {"tx_hash":"07951ede40f1a275b3b20435b9e05f3339c96c740ff23c8c8369c6e6e5efc364"}
+2018-10-18 17:52:22 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:02:22 Payments sent via wallet daemon {"tx_hash":"97600c012984713b66d45e8dad48199f08c441fc37792827527110f6699e0af1"}
+2018-10-18 18:02:22 Payments sent via wallet daemon {"tx_hash":"00f828eb06e5d749640fb3e77a27dd67283b5273deb62ed233172c1e50c8dfc3"}
+2018-10-18 18:02:22 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:12:22 Payments sent via wallet daemon {"tx_hash":"169ddceb12652bbea3f3b61b3e81a7512eb411ab980f0b555c1b5ca0bc847906"}
+2018-10-18 18:12:22 Payments sent via wallet daemon {"tx_hash":"b8565ca49052f7147b0c7e102dfa9f84816d29f77eaa957e057f15cddf277afa"}
+2018-10-18 18:12:22 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:22:23 Payments sent via wallet daemon {"tx_hash":"1631bc3e5f4f83bb4bb550e3025b92c994240f4a7cc8577e9d9a8a6612906359"}
+2018-10-18 18:22:23 Payments sent via wallet daemon {"tx_hash":"e55d6f8db9a3d17c2e367092043252388079e5e703222cad680f3c6e1d333961"}
+2018-10-18 18:22:23 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:32:23 Payments sent via wallet daemon {"tx_hash":"9c570e2b4995ba12a8728ab147ed40cd01e546108983abbb63f85ab7df5e3b74"}
+2018-10-18 18:32:23 Payments sent via wallet daemon {"tx_hash":"768599f936776caacea7f1f77bf0f388d0b76c0d03fdd0a918dad1fae2f4097f"}
+2018-10-18 18:32:23 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:42:23 Payments sent via wallet daemon {"tx_hash":"84f359076b078a04d5f8fec15b538ec526f301cc4823db04dab4627d66549d9e"}
+2018-10-18 18:42:23 Payments sent via wallet daemon {"tx_hash":"ed926cd521d87e67e8af605592f3b528a88e7310e135c513117c9fb013967065"}
+2018-10-18 18:42:23 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 18:52:24 Payments sent via wallet daemon {"tx_hash":"0b5c3c882f178e3e7df5c0c6ff1c421fb9fe58930b85daee0da7eed1ce7e73b2"}
+2018-10-18 18:52:24 Payments sent via wallet daemon {"tx_hash":"874c8c677c545e5612528c0d1bcac1a09e33742b4d3c172a66c455267ea7e826"}
+2018-10-18 18:52:24 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:02:24 Payments sent via wallet daemon {"tx_hash":"1d3c4d29ade075f933384b5a6e907c3368a9ddf1e358e40048791d91797a60ce"}
+2018-10-18 19:02:24 Payments sent via wallet daemon {"tx_hash":"81eb9ca88748f9d5a8f531b1671579076a9abe2ca2c1f3cd4f9b58b96c48f7de"}
+2018-10-18 19:02:24 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:12:24 Payments sent via wallet daemon {"tx_hash":"d2ec8721c6db32d0bd5258cb41e2e6bf46642f833ed851ade3d8ce9fea0fafda"}
+2018-10-18 19:12:25 Payments sent via wallet daemon {"tx_hash":"12ebfdbf86278b542f59968e3d09a8c77c09e0653f728d5030e6f49842e55817"}
+2018-10-18 19:12:25 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:22:25 Payments sent via wallet daemon {"tx_hash":"cc67e30f83ed8eb7aa40a1e6c9002a51f7153c8548824ff46fd34ada3777c23c"}
+2018-10-18 19:22:25 Payments sent via wallet daemon {"tx_hash":"5def0b452f5d37a6b765118fa995377eb5c57b8d999387d0080392d6de3a3dec"}
+2018-10-18 19:22:25 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:32:25 Payments sent via wallet daemon {"tx_hash":"81cbf97dbbfeb32ef00258daffbbbc2a507a4773620039a04332960f80ba2bc0"}
+2018-10-18 19:32:25 Payments sent via wallet daemon {"tx_hash":"45e76d5dcc9d971e58e280b6079563b348fafc679aeff83757dcf7fbef00de66"}
+2018-10-18 19:32:25 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:42:25 Payments sent via wallet daemon {"tx_hash":"2d9cc5c27dec17244da343100c9d6a063d93a2d8a5927ea56f87409757b6217d"}
+2018-10-18 19:42:26 Payments sent via wallet daemon {"tx_hash":"ffb129b3ebe275e637abd7910cfda3e3074eebda408a8fc3e052e0aadae637f3"}
+2018-10-18 19:42:26 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 19:52:26 Payments sent via wallet daemon {"tx_hash":"8a5c6ca4d06086ef2866d5e20ed973592e316a00b9402955f6478c726a115efe"}
+2018-10-18 19:52:26 Payments sent via wallet daemon {"tx_hash":"d152f45cd0f349010180eab39c44fd20cd542c2c11cba8da555b792a104d1d9f"}
+2018-10-18 19:52:26 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:02:26 Payments sent via wallet daemon {"tx_hash":"b6af1b79ede01bd1f04c3bec8ea91940a37e53fc5347d2e618ccbe817f87666a"}
+2018-10-18 20:02:26 Payments sent via wallet daemon {"tx_hash":"d2001265beec8e5314a0359bebc770d8d90c203ddeb1a928adeea78249f412d9"}
+2018-10-18 20:02:26 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:12:27 Payments sent via wallet daemon {"tx_hash":"7878e683bd44ca5a96221ef0a901acf6c3511d5986047636c54986d4a124c589"}
+2018-10-18 20:12:27 Payments sent via wallet daemon {"tx_hash":"7b1b645957a5daca7bba99e83a58aad8ffd8c41554b0bf3dd2ef97bc164495d1"}
+2018-10-18 20:12:27 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:22:27 Payments sent via wallet daemon {"tx_hash":"54ae7d70f2ad2d2cda1ccd2e59f99f15c9d264642b033160541e6fb1a457a735"}
+2018-10-18 20:22:27 Payments sent via wallet daemon {"tx_hash":"46bbeb4112e659add5e4c53cf68945eb05ccf0c7827f284fa3886ea42c8fb2b2"}
+2018-10-18 20:22:27 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:32:27 Payments sent via wallet daemon {"tx_hash":"878ea407ef3c2a5c5028ebb7110b140a503bef2627f7c51494cd4ed378d21b7f"}
+2018-10-18 20:32:28 Payments sent via wallet daemon {"tx_hash":"463112fcee6fba87e658307360032fabb4b56f94dbd1f356baac30afd0214527"}
+2018-10-18 20:32:28 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:42:28 Payments sent via wallet daemon {"tx_hash":"60b8aa64441d1c423e160145d93b0a1c0b3d442b33cbc6c9312118f8585a1d9b"}
+2018-10-18 20:42:28 Payments sent via wallet daemon {"tx_hash":"ae64f4116235ab4ab87586b16053b1c79839b2620102708d81babbb5fe9f967a"}
+2018-10-18 20:42:28 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 20:52:28 Payments sent via wallet daemon {"tx_hash":"18695c69b4cf09fb10a503b1dbdcd0b829af6384d1ed51bcc2bb187551677c7a"}
+2018-10-18 20:52:28 Payments sent via wallet daemon {"tx_hash":"6bb0bfb4269c23443d3d0d0896b2ea70dfc5a90b64e36fa7772e3c31cae41229"}
+2018-10-18 20:52:28 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:02:29 Payments sent via wallet daemon {"tx_hash":"fe237dad50be220c6db2cd7331736fe7b951ef0e02a8a3bc0186eaf12fa533fa"}
+2018-10-18 21:02:29 Payments sent via wallet daemon {"tx_hash":"d58dfba695cf2d6b6076180d3951e7a40ffa784dbe68d553c5038ed480f5b006"}
+2018-10-18 21:02:29 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:12:29 Payments sent via wallet daemon {"tx_hash":"32b02c68b1c445dc2137632977a41c54f3ce4be96bd43efa5699a76ec3e8dc7d"}
+2018-10-18 21:12:29 Payments sent via wallet daemon {"tx_hash":"b7a95a2ba25f577e9275e8383a947cafe67aed099e5d2a22dbd8d5d242c7595f"}
+2018-10-18 21:12:29 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:22:29 Payments sent via wallet daemon {"tx_hash":"1c31702c450c3c2225abd8094a044bdeb54aa12866ee3d6e3f8d40a3dd1f4681"}
+2018-10-18 21:22:29 Payments sent via wallet daemon {"tx_hash":"31872c57294c42569436fd630b0855bea027464cb3d21da6b94c92ea5a85b720"}
+2018-10-18 21:22:29 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:32:30 Payments sent via wallet daemon {"tx_hash":"17149def8901be6b74accd1090b223e1b804e39b6b29df726972c3c252dc9b56"}
+2018-10-18 21:32:30 Payments sent via wallet daemon {"tx_hash":"dfa93c0bb07272242eacd69663e15a0be7073c50d4502df8c3c535358537ec48"}
+2018-10-18 21:32:30 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:42:30 Payments sent via wallet daemon {"tx_hash":"6831f19c0d5eea9e9e87cc923fe3cddbf8541874098c772569bb02277a819a7b"}
+2018-10-18 21:42:30 Payments sent via wallet daemon {"tx_hash":"f4a86796534f666e00a08e629b36f6c0dad1174d1ab22214371f4875153f18a9"}
+2018-10-18 21:42:30 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 21:52:30 Payments sent via wallet daemon {"tx_hash":"12954e6ae8c9113d018ee8e38dc1024af8faf5000432d3e2ba4f33f90d1db4c7"}
+2018-10-18 21:52:31 Payments sent via wallet daemon {"tx_hash":"d1cf60929266c370ac54df31c516a28b293c9acfcc666ea65e8d10093f6875cc"}
+2018-10-18 21:52:31 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:02:31 Payments sent via wallet daemon {"tx_hash":"03a02949c9d0a0aef31549f36adb6fe9616abd351719fa1d11c4f10bd2aad940"}
+2018-10-18 22:02:31 Payments sent via wallet daemon {"tx_hash":"97ea789a4d7d216b4e87701405477611ab8488aa5f21f13351183c8595a01ad4"}
+2018-10-18 22:02:31 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:12:31 Payments sent via wallet daemon {"tx_hash":"1dfadd9f62f2b8a9f1aae3df9d0414ddbd2442a366abd0294707216b8cf94d8d"}
+2018-10-18 22:12:31 Payments sent via wallet daemon {"tx_hash":"af2c817a748948146bfbe920b6c9c4933f3a6164936aa52ffd17a70bcab94536"}
+2018-10-18 22:12:31 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:22:32 Payments sent via wallet daemon {"tx_hash":"c4edc5981ef92dd816cc773a55553939a004d206c2a9a3975a476800b83e26b8"}
+2018-10-18 22:22:32 Payments sent via wallet daemon {"tx_hash":"10feccfb6634e1060e28132202ac02d2a6157b132e3181d5ef079ced69941f37"}
+2018-10-18 22:22:32 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:32:32 Payments sent via wallet daemon {"tx_hash":"39133258891b615ccaf52681b141b5f96958f73c4b9a023098895ee07f473b3d"}
+2018-10-18 22:32:32 Payments sent via wallet daemon {"tx_hash":"cd8c8766bc883970e5afc80f34a66f5f6953b88b271fc159d35674d99f3b5cad"}
+2018-10-18 22:32:32 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:42:32 Payments sent via wallet daemon {"tx_hash":"8b66c5f1dc3066c87bc93bb9963e5a64888958c6674cad19a681ec2a629fc6f5"}
+2018-10-18 22:42:33 Payments sent via wallet daemon {"tx_hash":"3d7eecc06f5d58e7f65f25a15829c7b9279c244efc31bd2ce876eed49c48102e"}
+2018-10-18 22:42:33 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 22:52:33 Payments sent via wallet daemon {"tx_hash":"ba3b025e72828a617dfe72587569aa1cf9a05f929385c8b8722b3524371873f1"}
+2018-10-18 22:52:33 Payments sent via wallet daemon {"tx_hash":"7fe8f0840b493ca89ba268a71d088fc0f48a6998f59a9e1cb755b6ef992e6bd7"}
+2018-10-18 22:52:33 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:02:33 Payments sent via wallet daemon {"tx_hash":"77cd906a0c0aecd73d27f5877dce434f2d869fd005c6dd7aa2754bfaff417032"}
+2018-10-18 23:02:33 Payments sent via wallet daemon {"tx_hash":"ecc68070ee174ffac3e5d77a4d3322a73847d010e72fed3bfbfe258a580c432b"}
+2018-10-18 23:02:33 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:12:33 Payments sent via wallet daemon {"tx_hash":"0f3bf0a9db7b9207643f99541b766c6ea025153e36339e8624579658314436be"}
+2018-10-18 23:12:34 Payments sent via wallet daemon {"tx_hash":"9d21bc6be6bb87d73e3475b316336548826843965fe1ab5db9e88c1ad2fe000f"}
+2018-10-18 23:12:34 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:22:34 Payments sent via wallet daemon {"tx_hash":"5d001904c069dbdbb21237f722f5e7c3006f007d1b03942cde081a0452961267"}
+2018-10-18 23:22:34 Payments sent via wallet daemon {"tx_hash":"e8daed92b63b9a2fbb2b0a8ea8f6bc1f2c2f2f6b580108053c0db02a1acfb863"}
+2018-10-18 23:22:34 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:32:34 Payments sent via wallet daemon {"tx_hash":"9c99978869ba9f1e2b618723c5558d0993f62123254f803d89c3a76063420f98"}
+2018-10-18 23:32:34 Payments sent via wallet daemon {"tx_hash":"495a19db500e54594bf467aab32075d4afe678818582061d1e38df095c9bdd2e"}
+2018-10-18 23:32:34 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:42:34 Payments sent via wallet daemon {"tx_hash":"7719bddf32c3c231aceabbb17d5d64e586571d259c38a4f410d06ebe70b669ac"}
+2018-10-18 23:42:35 Payments sent via wallet daemon {"tx_hash":"44c3046e6a9a4da5a559dc76d3f6da9b0d9d41518526267338558a0a36b3e5d1"}
+2018-10-18 23:42:35 Payments splintered and 2 successfully sent, 0 failed
+2018-10-18 23:52:35 Payments sent via wallet daemon {"tx_hash":"de9abd8cb094f54a3d407cbb2c1275bcc3ce18ea6d768fa85aea31adde5a5bd1"}
+2018-10-18 23:52:35 Payments sent via wallet daemon {"tx_hash":"370f78cec3b66b7a96f791e2c0dbe7773129ddd3c648f2cfe7fc4f4f8d12946e"}
+2018-10-18 23:52:35 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:02:35 Payments sent via wallet daemon {"tx_hash":"e7ca8e1f5729410734ef153bddd687e11f2234fa310775d23bb768af17d3b239"}
+2018-10-19 00:02:35 Payments sent via wallet daemon {"tx_hash":"bd8622e57ca41fa94e8fca1074e3334ee83fd6412e36831113db72618a435c84"}
+2018-10-19 00:02:35 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:12:36 Payments sent via wallet daemon {"tx_hash":"3bab417487fb50315407fcdf8ca0b1a4fb19a9237727cd8f3ec99b6c9f02a8fd"}
+2018-10-19 00:12:36 Payments sent via wallet daemon {"tx_hash":"043d413c3d540d57318cfe9a5d40178a225de53a0eb02ca1297bb8e356c8de53"}
+2018-10-19 00:12:36 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:22:36 Payments sent via wallet daemon {"tx_hash":"92b4c2d9165f822ee0a76ebe80dc0e72cb6750f637678bc4642152e78280a759"}
+2018-10-19 00:22:36 Payments sent via wallet daemon {"tx_hash":"0bdbd522eb18ae3bee5d99f5502c60a8bf1c12d4e1b291c517c39580a42f4aae"}
+2018-10-19 00:22:36 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:32:36 Payments sent via wallet daemon {"tx_hash":"e28eaebe54325a6ff5f525a67d3a1ee18ebb86d1a70ab3ccfcca8f00227be869"}
+2018-10-19 00:32:37 Payments sent via wallet daemon {"tx_hash":"05e0b207e3b2f0a6afe3b40adf366e75b88505f59b342a5a761c341d6fad7738"}
+2018-10-19 00:32:37 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:42:37 Payments sent via wallet daemon {"tx_hash":"b6d49c23948bc4efd36e639979f8fffff8707381bb187499e09bfac19a0de2ab"}
+2018-10-19 00:42:37 Payments sent via wallet daemon {"tx_hash":"ea40a43ef5d40d0b029bbcefea3bdc9059c78e3f64760534c31c3d221ee19d81"}
+2018-10-19 00:42:37 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 00:52:37 Payments sent via wallet daemon {"tx_hash":"efd7b51ca809623880dfe6de0835f4adbed61a91d41e2e3cca92aaef1a4337f8"}
+2018-10-19 00:52:37 Payments sent via wallet daemon {"tx_hash":"d786ba486c3a979f3598c9b424c4fa37f21ea9f574e67e6750eb66d1b2d66779"}
+2018-10-19 00:52:37 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 01:02:38 Payments sent via wallet daemon {"tx_hash":"1d51defe400dc34ed6b2b9163a218def3270fb8e38129c772cda60a1ff1215bf"}
+2018-10-19 01:02:38 Payments sent via wallet daemon {"tx_hash":"e55eb4f4f83aa7f99df456be27d42f7e413eb379126d811cda0cf78aee5207a0"}
+2018-10-19 01:02:38 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 01:12:38 Payments sent via wallet daemon {"tx_hash":"798a9ef6176cb0efb46a2e4e737009b89dcd438dcf74c454eb30ee6e6d5b9a62"}
+2018-10-19 01:12:38 Payments sent via wallet daemon {"tx_hash":"d1d3d32f024bdc84cd761488e90f8b9e2d52d5caf73c82149bd530873abd8e32"}
+2018-10-19 01:12:38 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 01:22:38 Payments sent via wallet daemon {"tx_hash":"156e912aaa8850e7d3d734729ed76d5a4ab736af2a19854c0549c517bbb00689"}
+2018-10-19 01:22:38 Payments sent via wallet daemon {"tx_hash":"33e1b2648030f8eb63fcac732e04ddb5c2d9e1fab51ff902e297bb9af7e49544"}
+2018-10-19 01:22:38 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 01:32:39 Payments sent via wallet daemon {"tx_hash":"52cabf7f28e8f2f9a6fa9e60f79ef517a2414b3a174d8e89a4e45d156f64dfb1"}
+2018-10-19 01:32:39 Payments sent via wallet daemon {"tx_hash":"783eccc904637163d6ef53673e7c00f7557fbe22c37a4da71311f578f20f7a3f"}
+2018-10-19 01:32:39 Payments splintered and 2 successfully sent, 0 failed
+2018-10-19 01:42:39 Payments sent via wallet daemon {"tx_hash":"39008eff552ebd0cb95ee473be54cbdbebd05b10fe5b2f5bdd82b2172681309c"}
+2018-10-19 01:42:39 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 01:52:39 Payments sent via wallet daemon {"tx_hash":"0f1c2a9afefc70f097badfa7d7d5f4015727b35482bffeada2017d4fdcd723c5"}
+2018-10-19 01:52:39 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 02:02:39 Payments sent via wallet daemon {"tx_hash":"1de70e39baf2457f0e3e6c32b3147c817f0695799b742fb0adb1b7abc88d1b2d"}
+2018-10-19 02:02:39 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 02:12:40 Payments sent via wallet daemon {"tx_hash":"bfbf45e2c8319f46269797c0909e8b59c875afefe2eed6815718a837883c30a2"}
+2018-10-19 02:12:40 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 02:22:40 Payments sent via wallet daemon {"tx_hash":"cb94d4c647fa4ad2ec31a1dd996ea21b82137103fbb89ee2054a095d1ad7c38e"}
+2018-10-19 02:22:40 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 02:32:40 Payments sent via wallet daemon {"tx_hash":"f70fe4a1bf404e2ec9fc498413b51fdd94b7c0eae8e914b0a7fb748d25cba584"}
+2018-10-19 02:32:40 Payments splintered and 1 successfully sent, 0 failed
+2018-10-19 02:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 02:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 03:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 04:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 05:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 06:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 07:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 08:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 09:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 10:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 11:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 12:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 13:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 14:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 15:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 16:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 17:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 18:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 19:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 20:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 21:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 22:52:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:02:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:12:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:22:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:32:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:42:40 No workers' balances reached the minimum payment threshold
+2018-10-19 23:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 00:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 01:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 02:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 03:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 04:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 05:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 06:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 07:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 08:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 09:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 10:52:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:02:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:12:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:22:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:32:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:42:40 No workers' balances reached the minimum payment threshold
+2018-10-20 11:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 12:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 13:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 14:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 15:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 16:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 17:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 18:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 19:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 20:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 21:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 22:52:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:02:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:12:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:22:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:32:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:42:41 No workers' balances reached the minimum payment threshold
+2018-10-20 23:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 00:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 01:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 02:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 03:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 04:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 05:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 06:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 07:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 08:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 09:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 10:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 11:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 12:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 13:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 14:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 15:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 16:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 17:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 18:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 19:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 20:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 21:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 22:52:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:02:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:12:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:22:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:32:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:42:41 No workers' balances reached the minimum payment threshold
+2018-10-21 23:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 00:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 01:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 02:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 03:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 04:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 05:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 06:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 07:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 08:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:12:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:22:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:32:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:42:41 No workers' balances reached the minimum payment threshold
+2018-10-22 09:52:41 No workers' balances reached the minimum payment threshold
+2018-10-22 10:02:41 No workers' balances reached the minimum payment threshold
+2018-10-22 10:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 10:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 10:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 10:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 10:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 11:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 12:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 13:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 14:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 15:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 16:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 17:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 18:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 19:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 20:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 21:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 22:52:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:02:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:12:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:22:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:32:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:42:42 No workers' balances reached the minimum payment threshold
+2018-10-22 23:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 00:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 01:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 02:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 03:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 04:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 05:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 06:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 07:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 08:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 09:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 10:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 11:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 12:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 13:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 14:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 15:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 16:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 17:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 18:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 19:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 20:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 21:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 22:52:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:02:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:12:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:22:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:32:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:42:42 No workers' balances reached the minimum payment threshold
+2018-10-23 23:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 00:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 01:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 02:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 03:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 04:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 05:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 06:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 07:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:02:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:12:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:22:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:32:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:42:42 No workers' balances reached the minimum payment threshold
+2018-10-24 08:52:42 No workers' balances reached the minimum payment threshold
+2018-10-24 09:02:43 No workers' balances reached the minimum payment threshold
+2018-10-24 09:12:43 No workers' balances reached the minimum payment threshold
+2018-10-24 09:22:43 No workers' balances reached the minimum payment threshold
+2018-10-24 09:32:43 No workers' balances reached the minimum payment threshold
+2018-10-24 09:42:43 No workers' balances reached the minimum payment threshold
+2018-10-24 09:52:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:02:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:12:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:22:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:32:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:42:43 No workers' balances reached the minimum payment threshold
+2018-10-24 10:52:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:02:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:12:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:22:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:32:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:42:43 No workers' balances reached the minimum payment threshold
+2018-10-24 11:52:43 No workers' balances reached the minimum payment threshold
+2018-10-24 12:02:43 No workers' balances reached the minimum payment threshold
+2018-10-24 12:12:43 No workers' balances reached the minimum payment threshold
+2018-10-24 12:22:43 No workers' balances reached the minimum payment threshold
+2018-10-25 11:30:44 Started
+2018-10-25 11:30:44 No workers' balances reached the minimum payment threshold
+2018-10-25 11:55:24 Started
+2018-10-25 11:55:24 No workers' balances reached the minimum payment threshold
+2018-10-25 12:22:10 Started
+2018-10-25 12:22:10 No workers' balances reached the minimum payment threshold
+2018-10-25 12:41:23 Started
+2018-10-25 12:41:23 No workers' balances reached the minimum payment threshold
+2018-10-25 13:12:16 Started
+2018-10-25 13:12:16 No workers' balances reached the minimum payment threshold
+2018-10-25 13:22:16 No workers' balances reached the minimum payment threshold
+2018-10-25 13:32:16 No workers' balances reached the minimum payment threshold
+2018-10-25 13:42:16 No workers' balances reached the minimum payment threshold
+2018-10-25 13:52:17 Payments sent via wallet daemon {"tx_hash":"1fe0455eca8bd2106cd69a566de7be4aa33e0193efb617da43d457c2750f2be6"}
+2018-10-25 13:52:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:02:17 Payments sent via wallet daemon {"tx_hash":"ec5a653670d40a93d873d1e8fc28113f33fcc1656bef164b1e7153bf81029a5b"}
+2018-10-25 14:02:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:12:17 Payments sent via wallet daemon {"tx_hash":"10b6cbfc03f768f34f2c0bdb3512ad606a6f6467f9f5f688067e9b2a48f3b140"}
+2018-10-25 14:12:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:22:17 Payments sent via wallet daemon {"tx_hash":"9f0c84c95444f8cf8c0336d4b1c46515b8b6c91e562b2b747cf9fb6f5967c8ec"}
+2018-10-25 14:22:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:32:17 Payments sent via wallet daemon {"tx_hash":"d4a57cc09605e10e39395964d1455f07c049f5cfa560cb70be72451f6273a9e9"}
+2018-10-25 14:32:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:42:17 Payments sent via wallet daemon {"tx_hash":"5bb222b8ac3546043668852ed6aac8d0657abdb2d4f18ce80904ab271206c5b8"}
+2018-10-25 14:42:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 14:52:17 Payments sent via wallet daemon {"tx_hash":"9b5c76e6bca00c3d258202c5f75a76024a4d276490ea44add4d9f427fe019b7b"}
+2018-10-25 14:52:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:02:17 Payments sent via wallet daemon {"tx_hash":"a9d0e7dc5425ce06be4daf04011a9e10ae286d6e9f0033a1f0837ef93b49ba03"}
+2018-10-25 15:02:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:12:17 Payments sent via wallet daemon {"tx_hash":"02f12f2ee0f8dd5ea0b69215373ca2092c5a34c7ba6b0c7aefe9ade72c1133e4"}
+2018-10-25 15:12:17 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:22:18 Payments sent via wallet daemon {"tx_hash":"bf2c9b551e9ff4e037fd9d1163f4cc4e36f40af5247859d1d163565bed97244d"}
+2018-10-25 15:22:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:32:18 Payments sent via wallet daemon {"tx_hash":"c97c5af0fa5794d54d436cc11a030bd45e9a65e1acfe1a0dca90504196b022c5"}
+2018-10-25 15:32:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:42:18 Payments sent via wallet daemon {"tx_hash":"b167ae1fa6118eafd8cd48e9aac8a4d735e0246d38bf4fa15cd9d0e839704e27"}
+2018-10-25 15:42:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 15:52:18 Payments sent via wallet daemon {"tx_hash":"546a656e00272fdb1346b8b4bd0935606215a40eba10470d773eee6bc3d9083e"}
+2018-10-25 15:52:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 16:02:18 Payments sent via wallet daemon {"tx_hash":"bfebf8d3af408c13b5177ee49395783bd7c4b8dad693c4ed8b64513c3e24cd22"}
+2018-10-25 16:02:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 16:12:18 Payments sent via wallet daemon {"tx_hash":"6647b5aaba79d083fccd790d1eb684e00fbbe231a3f23ae5144401b25236d136"}
+2018-10-25 16:12:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 16:22:18 Payments sent via wallet daemon {"tx_hash":"5217f7a99f7c9b5fb1fb24b66327824a8e6395ab213d3cc2b072db3b418f26c5"}
+2018-10-25 16:22:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 16:32:18 Payments sent via wallet daemon {"tx_hash":"14a985ec406755e8eadba9cce36e8ef17a6608e8ce7abf575cd3855caa0a2901"}
+2018-10-25 16:32:18 Payments splintered and 1 successfully sent, 0 failed
+2018-10-25 16:42:18 No workers' balances reached the minimum payment threshold
+2018-10-25 16:52:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:02:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:12:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:22:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:32:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:42:18 No workers' balances reached the minimum payment threshold
+2018-10-25 17:52:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:02:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:12:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:22:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:32:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:42:18 No workers' balances reached the minimum payment threshold
+2018-10-25 18:52:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:02:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:12:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:22:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:32:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:42:18 No workers' balances reached the minimum payment threshold
+2018-10-25 19:52:18 No workers' balances reached the minimum payment threshold
+2018-10-25 20:02:18 No workers' balances reached the minimum payment threshold
+2018-10-25 20:12:19 No workers' balances reached the minimum payment threshold
+2018-10-25 20:22:19 No workers' balances reached the minimum payment threshold
+2018-10-25 20:32:19 No workers' balances reached the minimum payment threshold
+2018-10-25 20:42:19 No workers' balances reached the minimum payment threshold
+2018-10-25 20:52:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:02:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:12:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:22:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:32:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:42:19 No workers' balances reached the minimum payment threshold
+2018-10-25 21:52:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:02:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:12:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:22:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:32:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:42:19 No workers' balances reached the minimum payment threshold
+2018-10-25 22:52:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:02:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:12:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:22:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:32:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:42:19 No workers' balances reached the minimum payment threshold
+2018-10-25 23:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 00:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 01:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 02:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 03:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 04:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 05:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 06:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 07:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 08:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:02:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:12:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:22:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:32:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:42:19 No workers' balances reached the minimum payment threshold
+2018-10-26 09:52:19 No workers' balances reached the minimum payment threshold
+2018-10-26 10:02:19 No workers' balances reached the minimum payment threshold
+2018-11-08 13:50:55 Started
+2018-11-08 13:50:55 No workers' balances reached the minimum payment threshold
+2018-11-08 14:00:55 No workers' balances reached the minimum payment threshold
+2018-11-08 14:10:55 No workers' balances reached the minimum payment threshold
+2018-11-15 13:29:18 Started
+2018-11-15 13:29:18 Payments sent via wallet daemon {"tx_hash":"d0de5b8df1434c5e90c63e3f4c927d1ddb31d345caae002511c93a655b1cfd78"}
+2018-11-15 13:29:18 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 14:20:41 Started
+2018-11-15 14:20:41 Payments sent via wallet daemon {"tx_hash":"af35107e80a9eb64bb269b752f0189e845a840e7c821f37145b99d948f674253"}
+2018-11-15 14:20:41 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 14:30:41 Payments sent via wallet daemon {"tx_hash":"7f1f2af6237c2d0530687e62f5fd9c9c56be0879164369a5ab41848637870189"}
+2018-11-15 14:30:41 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 14:40:41 Payments sent via wallet daemon {"tx_hash":"aee66a599ee391254e1c28e58bfdfe805a6cbf5e1400c42cdf72adca20517e4b"}
+2018-11-15 14:40:41 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 14:50:42 Payments sent via wallet daemon {"tx_hash":"45b1af27bdd6c73fdbc1551361441fa241a748006d62e28c1cbc15b3c4b0d4aa"}
+2018-11-15 14:50:42 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 15:00:42 Payments sent via wallet daemon {"tx_hash":"467ce46bcbf803526e60fce7688901804dfd5d3b2037f8657890c934bf2fb044"}
+2018-11-15 15:00:42 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 15:10:42 Payments sent via wallet daemon {"tx_hash":"225a1cb07374707409554e5108a1082658abb576cdd564bc6dbcde1118b8156a"}
+2018-11-15 15:10:42 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 15:20:42 Payments sent via wallet daemon {"tx_hash":"6ede4e41be72482a787d80b4dd12a1464075ca44faf2f764de1d3129ec34152e"}
+2018-11-15 15:20:42 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 15:30:42 Payments splintered and 0 successfully sent, 1 failed
+2018-11-15 15:40:43 Payments sent via wallet daemon {"tx_hash":"2498a613cfdcf1b5be5da3a5e2bc4cda4a2af226484cf0ad6197990b89cef21b"}
+2018-11-15 15:40:43 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 15:50:43 Payments splintered and 0 successfully sent, 1 failed
+2018-11-15 16:00:43 Payments sent via wallet daemon {"tx_hash":"090d4150ddfc968b8981435ca84cc5d67f34f993e42a02982793a0972557dfd8"}
+2018-11-15 16:00:43 Payments sent via wallet daemon {"tx_hash":"4bb64c0878697e7866940a8729c0a6d71ff2b9b582fe6af005b383aae7de0bcc"}
+2018-11-15 16:00:43 Payments splintered and 2 successfully sent, 0 failed
+2018-11-15 16:10:43 Payments sent via wallet daemon {"tx_hash":"5ac38b81d2798914c41906ccae371182e48a004c5a1a282282ddda9ecd5d05a4"}
+2018-11-15 16:10:43 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 16:20:43 Payments sent via wallet daemon {"tx_hash":"42b0a599c97a6cc6ec814fb7d5f422e45cee7be9017bc43bb8003d2fe2ae09a4"}
+2018-11-15 16:20:43 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 16:30:44 Payments splintered and 0 successfully sent, 1 failed
+2018-11-15 16:40:44 Payments sent via wallet daemon {"tx_hash":"12ecde1ac7e4bc48bd3c010e9ad36053119349e8cf9efd625d08ce0f625909e2"}
+2018-11-15 16:40:44 Payments splintered and 1 successfully sent, 1 failed
+2018-11-15 16:50:44 Payments sent via wallet daemon {"tx_hash":"eb9377a92c50f10b21c4e46abf73c856c48cb07fada49a9d225cd7a393497398"}
+2018-11-15 16:50:44 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 17:00:44 Payments sent via wallet daemon {"tx_hash":"d02c1c9b0351ce0354b37902d30a46dbd22067a1b34cb41ef887d5677d8e340f"}
+2018-11-15 17:00:44 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 17:10:44 Payments splintered and 0 successfully sent, 1 failed
+2018-11-15 17:20:44 Payments sent via wallet daemon {"tx_hash":"c4d9c5695865dedd5cf9d683a7ed9de4977b8b506d4dda74bbdd49a7921fb5ff"}
+2018-11-15 17:20:44 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 17:30:44 Payments sent via wallet daemon {"tx_hash":"95b7ca123d6a17f452d767b94fb11dedb001771b8816793ead9a30a1aa0c7411"}
+2018-11-15 17:30:44 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 17:40:45 Payments sent via wallet daemon {"tx_hash":"eef9e9abc4cfed1ce55bb46779e2ab80745f898a70ec7325a39971901def3735"}
+2018-11-15 17:40:45 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 17:50:45 Payments splintered and 0 successfully sent, 1 failed
+2018-11-15 18:00:45 Payments sent via wallet daemon {"tx_hash":"430f139013ea587367934fbc8baf119365970dfd503dbdf221313870cec9c8a3"}
+2018-11-15 18:00:45 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 18:10:45 Payments sent via wallet daemon {"tx_hash":"a3a7e20a4f4ea0b9898c6e6c73001f4dac529d70c3edefee22ca3435e354a10e"}
+2018-11-15 18:10:45 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 18:20:45 Payments sent via wallet daemon {"tx_hash":"7bc4f498e2e1905f12338b268c1d1889691f1061ed1f1cf5553ae0f6c406ca6d"}
+2018-11-15 18:20:45 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 18:30:45 Payments sent via wallet daemon {"tx_hash":"1586311930b7f3250109b68995808fd089c789e614fade85937968e48d8fbdb3"}
+2018-11-15 18:30:45 Payments splintered and 1 successfully sent, 0 failed
+2018-11-15 18:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 18:50:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:00:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:10:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:20:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:30:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 19:50:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:00:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:10:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:20:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:30:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 20:50:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:00:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:10:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:20:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:30:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 21:50:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:00:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:10:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:20:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:30:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 22:50:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:00:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:10:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:20:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:30:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:40:45 No workers' balances reached the minimum payment threshold
+2018-11-15 23:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 00:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 01:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 02:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 03:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 04:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 05:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 06:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 07:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 08:50:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:00:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:10:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:20:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:30:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:40:45 No workers' balances reached the minimum payment threshold
+2018-11-16 09:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 10:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 11:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 12:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 13:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 14:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 15:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 16:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 17:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 18:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 19:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 20:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 21:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 22:50:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:00:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:10:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:20:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:30:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:40:46 No workers' balances reached the minimum payment threshold
+2018-11-16 23:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 00:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 01:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 02:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 03:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 04:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 05:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 06:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 07:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 08:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 09:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 10:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 11:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 12:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 13:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 14:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 15:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:40:46 No workers' balances reached the minimum payment threshold
+2018-11-17 16:50:46 No workers' balances reached the minimum payment threshold
+2018-11-17 17:00:46 No workers' balances reached the minimum payment threshold
+2018-11-17 17:10:46 No workers' balances reached the minimum payment threshold
+2018-11-17 17:20:46 No workers' balances reached the minimum payment threshold
+2018-11-17 17:30:46 No workers' balances reached the minimum payment threshold
+2018-11-17 17:40:46 No workers' balances reached the minimum payment threshold

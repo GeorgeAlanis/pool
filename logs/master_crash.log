@@ -1,0 +1,176 @@
+2018-10-02 12:27:35
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:36
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:36
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:37
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:38
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:40
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-02 12:27:44
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at Socket.emit (events.js:95:17)
+    at net.js:441:14
+    at process._tickCallback (node.js:458:13)
+
+2018-10-04 10:54:44
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 10:54:45
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:16:02
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:16:03
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:21:49
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:21:49
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:28:46
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:28:47
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:46:57
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 11:46:57
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 12:16:45
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+
+2018-10-04 12:16:45
+Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at RedisClient.on_error (/home/jralanis/pool/node_modules/redis/index.js:196:24)
+    at Socket.<anonymous> (/home/jralanis/pool/node_modules/redis/index.js:106:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:66:8)
+    at _combinedTickCallback (internal/process/next_tick.js:139:11)
+    at process._tickCallback (internal/process/next_tick.js:181:9)
+

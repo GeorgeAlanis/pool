@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs');
 var cluster = require('cluster');
 var os = require('os');

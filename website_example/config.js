@@ -1,8 +1,8 @@
-var api = "http://cryppit.com:8117";
+var api = "http://127.0.0.1:8117";
 
-var coinUnits = 1000000000000;
+var coinUnits = 100000000;
 
-var poolHost = "cryppit.com";
+var poolHost = "127.0.0.1";
 
 var irc = "irc.freenode.net/#monero-pools";
 
